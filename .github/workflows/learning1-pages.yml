@@ -1,4 +1,4 @@
-name: Deploy static content to Pages
+name: Deploy learning1 to https://bseboy.github.io/vue/
 
 on:
   workflow_dispatch:
