@@ -1,2 +1,2 @@
-# vuew
+# vue
 VUE demo code
